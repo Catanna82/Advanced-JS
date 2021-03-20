@@ -1,0 +1,15 @@
+[
+    {
+        "img":"https://www.ikea.com/PIAimages/0447583_PE597395_S5.JPG",
+        "name": "Sofa",
+        "price": "259",
+        "decFactor":"0.4"
+
+    },
+    {
+        "img":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-furniture-websites-joybird-1506629308.jpeg",
+        "name": "Wardrobe",
+        "price": "120",
+        "decFactor":"1.2"
+    }
+]
